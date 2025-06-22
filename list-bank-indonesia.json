@@ -1,6 +1,16 @@
 [
-  { "name": "Bank Central Asia", "code": "014", "alias": "BCA" },
-  { "name": "Bank Mandiri", "code": "008", "alias": "Mandiri" },
+  { "name": "Bank Central Asia", "code": "014", "alias": "BCA", 
+    "logo": [
+      "https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png", 
+      "https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Putih.png"
+    ] 
+  },
+  { "name": "Bank Mandiri", "code": "008", "alias": "Mandiri",
+    "logo": [
+      "https://www.bankmandiri.co.id/documents/20143/44881086/ag-branding-logo-1.png",
+      "https://www.bankmandiri.co.id/documents/20143/44881086/ag-branding-logo-2.png"
+    ]
+  },
   { "name": "Bank Negara Indonesia", "code": "009", "alias": "BNI" },
   { "name": "Bank Rakyat Indonesia", "code": "002", "alias": "BRI" },
   { "name": "Bank Tabungan Negara", "code": "200", "alias": "BTN" },
